@@ -1,3 +1,9 @@
+<!--project link -->
+<!-- https://medium.com/django-unleashed/technical-guide-end-to-end-ci-cd-devops-with-jenkins-docker-kubernetes-argocd-github-actions-fee466fe949e -->
+
+
+
+
 # Django-multitenant-saas-ecommerce-project
 ## Automating Django , Celery , Redis and postgres deployment to AWS EC2 using Terraform ( Complete Guide)
 
